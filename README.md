@@ -2,7 +2,7 @@
 ## Interactive Webpage View
 
 ## Interactive Report View
-
+https://app.powerbi.com/view?r=eyJrIjoiNTE5YTY1ZjUtYWRiYi00ODc0LTgyMTEtNTI2MWI3ZDBiNGVjIiwidCI6IjU1YmQ5ZTdkLTdkMWEtNGZlNy1hNmZmLTJhOWY0YzdkZjAxYSJ9
 ## Description
 A Power BI-driven analysis of HR’s Diversity & Inclusion (D&I) metrics (FY20–FY21), uncovering gender disparities in hiring, promotions, and leadership representation. Designed to align HR strategies with global equity benchmarks and foster an inclusive workplace culture.
 
