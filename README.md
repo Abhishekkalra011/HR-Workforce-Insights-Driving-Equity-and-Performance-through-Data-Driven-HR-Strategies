@@ -1,6 +1,6 @@
 # HR-Workforce-Insights-Driving-Equity-and-Performance-through-Data-Driven-HR-Strategies
 ## Interactive Webpage View
-
+https://hr-workforce-insights-g57igt3.gamma.site/
 ## Interactive Report View
 https://app.powerbi.com/view?r=eyJrIjoiNTE5YTY1ZjUtYWRiYi00ODc0LTgyMTEtNTI2MWI3ZDBiNGVjIiwidCI6IjU1YmQ5ZTdkLTdkMWEtNGZlNy1hNmZmLTJhOWY0YzdkZjAxYSJ9
 ## Description
